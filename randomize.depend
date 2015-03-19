@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1426775969 source:j:\cpp\randomize\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
